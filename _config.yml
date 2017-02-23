@@ -5,7 +5,7 @@ colors:
     - 'hsl(0,0%,60%)'
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
-name: tkconsultants.com
+name: 'http://www.tkconsultants.com/Joomla/'
 layout_spectrum: 0.8416650504805148
 typography_spectrum: 0.14476981735788286
 color:
@@ -21,3 +21,5 @@ color:
     - '#3B28CC'
 content: []
 github: true
+title: TK
+description: ''
