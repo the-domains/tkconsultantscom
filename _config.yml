@@ -1,0 +1,23 @@
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: tkconsultants.com
+layout_spectrum: 0.8416650504805148
+typography_spectrum: 0.14476981735788286
+color:
+  brandStrength: 0.25673354766331613
+  lightness: 0.8659701908472925
+  saturation: 0.4519665655680001
+  rhythmicContrast: 0.1731832700315863
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+content: []
+github: true
